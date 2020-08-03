@@ -8,10 +8,10 @@
 </h4>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/angular9-essencial-tutorial-from-coder">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Jurfest/Bullseye">
 <img alt="Made by Jurfest" src="https://img.shields.io/badge/made%20by-Jurfest-%20">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/angular9-essencial-tutorial-from-coder">
-<img alt="GitHub license" src="https://img.shields.io/github/license/Jurfest/angular9-essencial-tutorial-from-coder">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Jurfest/Bullseye">
+<img alt="GitHub license" src="https://img.shields.io/github/license/Jurfest/Bullseye">
 </p> 
 
 
@@ -27,8 +27,8 @@
 
 This project was developed with the following technologies:
 
--  [Swift](https://angular.io)
--  [SwiftUI](https://www.typescriptlang.org)
+-  [Swift](https://developer.apple.com/documentation/swift)
+-  [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 <!-- ### Installing the Application
 Clone the repository and install the dependencies.
